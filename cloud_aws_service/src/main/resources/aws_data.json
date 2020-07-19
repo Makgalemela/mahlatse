@@ -1,0 +1,11 @@
+{
+  "AWS BILLING": [
+    {
+      "MINIMUM": 0,
+      "MAXIMUM": 1460.02,
+      "AVERAGE": 1460.02,
+      "TIMESTAMP": "Fri Jun 26 11:31:00 IST 2020",
+      "SUM": 1460.02
+    }
+  ]
+}
