@@ -15,12 +15,10 @@ public class UrlConstant {
 	public static final String FETCH_USER = API_VERSION + "/azure/user";
 	public static final String FETCH_RATE_CARD = API_VERSION + "/azure/rate/card";
 	public static final String FETCH_COST = API_VERSION + "/azure/cost";
-
 	public static final String FETCH_BILLING = API_VERSION + "/azure/accounts/detail";
 	public static final String FETCH_SOFTWARE = API_VERSION + "/azure/software";
 	public static final String FETCH_NETWORK_MONITOR = API_VERSION + "/azure/monitor/network";
 	public static final String FETCH_VITUAL_MACHINE_MONTIORING = API_VERSION + "/azure/monitor";
-
 	public static final String GET_USER_DETAIL = GATEWAY_SERVICE + "/user";
 
 }

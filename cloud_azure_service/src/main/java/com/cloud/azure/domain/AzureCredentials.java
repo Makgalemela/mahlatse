@@ -8,7 +8,7 @@ public class AzureCredentials {
 	private String clientId;
 	private String tenantId;
 	private String clientSecretId;
-	private String subscriptionId;
+	//private String subscriptionId;
 
 	public String getClientId() {
 		return clientId;
@@ -34,12 +34,12 @@ public class AzureCredentials {
 		this.clientSecretId = clientSecretId;
 	}
 
-	public String getSubscriptionId() {
-		return subscriptionId;
-	}
+	//public String getSubscriptionId() {
+//		return subscriptionId;
+//	}
 
-	public void setSubscriptionId(String subscriptionId) {
-		this.subscriptionId = subscriptionId;
-	}
+//	public void setSubscriptionId(String subscriptionId) {
+//		this.subscriptionId = subscriptionId;
+//	}
 
 }
